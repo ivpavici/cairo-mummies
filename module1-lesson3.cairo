@@ -34,6 +34,7 @@ func verify_slopes{output_ptr : felt*}(slopes_arr : felt*, slopes_len : felt) ->
         return (is_valid=1);
     }
     
+    // OR logic simulation in Cairo
     if (((51 - slopes_arr[0]) * (52 - slopes_arr[0])) != 0) {
         %{ print("Test!") %}
         return (is_valid=0);
