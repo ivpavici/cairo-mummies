@@ -1,7 +1,7 @@
-# cairo-mummies
+# cairo-playfield
 
 Playing with Cairo language
 
 Sources:
 
-- Course by [Triality](https://triality.org/education/course/cairomummies)
+- Cairo Mummies course by [Triality](https://triality.org/education/course/cairomummies)
